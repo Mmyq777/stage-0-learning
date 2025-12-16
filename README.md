@@ -9,5 +9,5 @@ This repository is for Stage 0 practice.
 
 ## Progress
 - [x] Create repository
-- [ ] Learn commit
+- [x] Learn commit
 - [ ] Learn pull request
